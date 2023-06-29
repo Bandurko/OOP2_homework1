@@ -2,7 +2,7 @@
 public class Сivilians extends Persons {
 
     public Сivilians(String name) {
-    // this.name = name;
+    this.name = name;
     this.hp = 150;
     this.protection = 0;
     this.damage = 0;
