@@ -8,6 +8,8 @@ public abstract class Persons {
     public int range;
     public int accuracy;
 
-
+public Persons(String name){
+    this.name = name;
+}
 
 }
